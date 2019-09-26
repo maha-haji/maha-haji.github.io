@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Maha N. Haji</title>
+    <link>https://maha-haji.github.io/project/</link>
+    <description>Recent content in Projects on Maha N. Haji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://maha-haji.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Extraction of Uranium from Seawater</title>
+      <link>https://maha-haji.github.io/project/seawater-uranium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maha-haji.github.io/project/seawater-uranium/</guid>
+      <description>&lt;p&gt;Terrestrial supplies of uranium are greatly limited. It is estimated that at the current consumption rate the global conventional reserves of uranium (7.6 million tonnes) could be depleted in a little over a century. Fortunately, uranium is present in the at a low concentration of 3ppb, which over the total volume of the oceans amounts to approximately 4.5 billion tonnes of uranium, nearly a thousand times that of conventional reserves. Finding a sustainable way to harvest uranium from seawater will provide a source of uranium for generations to come. For my PhD project, I am working with &lt;a href=&#34;http://meche.mit.edu/people/faculty/slocum@mit.edu&#34;&gt;Prof. Alex Slocum&lt;/a&gt; in the &lt;a href=&#34;http://pergatory.mit.edu/&#34;&gt;Precision Engineering Research Group (PERG)&lt;/a&gt; to investigate ways to harvest uranium from seawater that are cost-efficient and highly survivable.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Integrated Pumped Hydro Reverse Osmosis Systems</title>
+      <link>https://maha-haji.github.io/project/iphros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maha-haji.github.io/project/iphros/</guid>
+      <description>&lt;p&gt;During my PhD at MIT, I also worked on a project in which the co-location of reverse osmosis desalination plants and pumped hydro energy storage/generation systems was investigated. Given that the ideal head height for both of these systems are approximately 500-700 m, it was thought that the co-location of these systems could reduce capital investments such as pump costs while also solving brine disposal issues for desalination. The overall system was called an Integrated Pumped Hydro Reverse Osmosis system (IPHROS).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Underwater Photography ROV</title>
+      <link>https://maha-haji.github.io/project/underwater-photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maha-haji.github.io/project/underwater-photography/</guid>
+      <description>&lt;p&gt;In January 2016 I participated in an Underwater Conservation Photography course at MIT. As part of this class, in teams we were to build and modify underwater drones that we would then use on week-long underwater conservation photography trip in Belize. Specifically, we started with the &lt;a href=&#34;https://www.openrov.com/products/openrov28/&#34;&gt;OpenROV 2.8 kit&lt;/a&gt;, a low-cost, open source underwater robot for exploration and education. The kit included all parts and instructions in order to make a functioning underwater robot complete with three thrusters (two in the back for maneuvering side-to-side and one at the top for moving up and down), an HD webcam on a tilt servo, four LEDs, a 100 m long tether, and an area to carry a payload. The entire ROV was controlled using an Arduino MEGA through a web browser interface.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project ZEER! Evaporative Cooling to Reduce Food Waste in India</title>
+      <link>https://maha-haji.github.io/project/project-zeer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maha-haji.github.io/project/project-zeer/</guid>
+      <description>&lt;p&gt;In the Spring of 2014, as part of an MIT Sloan School of Business class known as New Enterprises, I worked on a team to develop both a technology to reduce food waste in India, as well as a detailed business plan to commercialize the concept. The project, known as Project ZEER!, is a high performance evaporative cooling system purposefully designed to address food spoilage problems due to lack of infrastructure, distance- to-market, and refrigerated fleet vehicles.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UC Berkeley Recyling Bin Redesign</title>
+      <link>https://maha-haji.github.io/project/recycling-bin-redesign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maha-haji.github.io/project/recycling-bin-redesign/</guid>
+      <description>&lt;p&gt;In a partnership with &lt;a href=&#34;http://www.ocf.berkeley.edu/~recycle/&#34;&gt;Campus Refuse and Recycling&lt;/a&gt;, the &lt;a href=&#34;https://ga.berkeley.edu/committees/enviro&#34;&gt;Graduate Assembly Environmental Sustainability Committee&lt;/a&gt;, the &lt;a href=&#34;http://physicalplant.berkeley.edu/&#34;&gt;Physical Plant Campus Services (PP-CS)&lt;/a&gt;, and additional funding from &lt;a href=&#34;http://tgif.berkeley.edu/index.php/funded-projects/grant-cycle/2009-projects/59-recycling-at-cal&#34;&gt;The Green Initiative Fund (TGIF)&lt;/a&gt;, the Recycling Bin Redesign project began at UC Berkeley in Spring of 2009. The goal of this project was increase the number of recycling bins on campus while also increasing the number of students who recycle and reduce cross-contamination within recycling. Furthermore, the redesigned bins will incorporate a compost waste stream while also improving upon the ergonomics of current waste receptacles on campus to reduce the number of work related injuries within the PP-CS. The installation of 75 new bins was estimated to result in a landfill diversion rate of 136,500 lbs per year, a savings of 9964.5 kgCO2 per year.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>EcoStapler - Staples EcoEasy Challenge</title>
+      <link>https://maha-haji.github.io/project/ecostapler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maha-haji.github.io/project/ecostapler/</guid>
+      <description>&lt;p&gt;In Fall of 2009, Staples, Inc., the world’s largest office supply company, in a partnership with the Rochester Institute of Technology’s Golisano Institute for Sustainability launched the inaugural Staples Global EcoEasy Challenge. Three other female Mechanical Engineering students at UC Berkeley and myself (&lt;a href=&#34;https://www.behance.net/user/?username=cindybayley&#34;&gt;Cynthia Bayley&lt;/a&gt;, Griselda Cardona, and Sarah Thornton) entered the competition under the team name the Explosi-Divas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Human Power Generation in Fitness Facilities</title>
+      <link>https://maha-haji.github.io/project/human-power-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maha-haji.github.io/project/human-power-generation/</guid>
+      <description>&lt;p&gt;As energy usage across the world continues to rise, there is a strong need to develop new methods for power generation that have less environmental impacts. Human power presents an alternative for energy harnessing, and a readily available resource can be easily found in the users of fitness facilities. This project focuses on the &lt;a href=&#34;http://calbears.berkeley.edu/&#34;&gt;Recreational Sports Facility (RSF) at University of California, Berkeley&lt;/a&gt;, which averages nearly 3,000 patrons per day. In particular, it was measured that patrons using 28 elliptical machines would supply approximately 10,000 kWh into the electric grid over a year. This amounts only to 0.7% of the RSF’s total energy needs, but is valuable nonetheless. The modification entails replacing the current build-in resistance mechanism with a DC/AC microinverter. The patron still feels the same machine resistance, but this inverter would now convert the patron’s direct current into usable alternating current for the electric grid.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MAR-P: Marine Autonomous Remover, Plastic Edition</title>
+      <link>https://maha-haji.github.io/project/mar-p/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maha-haji.github.io/project/mar-p/</guid>
+      <description>&lt;p&gt;Designed for classes Mechanical Engineering 102B (Mechatronics Design) and Mechanical Engineering 135 (Design of Microprocessor-Based Mechanical Systems), MAR-P is a small scale prototype of a robot that could one day help with the clean-up of plastic debris in the ocean. An acronym for Marine Autonomous Remover, Plastic Edition, MAR-P was built during the Spring 2011 semester of UC Berkeley in conjunction with a team of 3 other mechanical engineering undergraduate students (&lt;a href=&#34;https://www.behance.net/user/?username=cindybayley&#34;&gt;Cynthia Bayley&lt;/a&gt;, Griselda Cardona, Sarah Thornton, and Ricardo Zagal).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Habitat for Humanity Furniture Project</title>
+      <link>https://maha-haji.github.io/project/habitat-for-humanity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maha-haji.github.io/project/habitat-for-humanity/</guid>
+      <description>&lt;p&gt;Starting in Spring 2009, I was part of a team currently designing and fabricating furniture for the Harrison House Homeless Shelter located in the East Bay of California. Our team was charged with creating furniture for a single-family disabled room that meets sustainability and strict budget requirements.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Interaction of Wave Energy Devices and the Environment</title>
+      <link>https://maha-haji.github.io/project/environmental-interactions-wecs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maha-haji.github.io/project/environmental-interactions-wecs/</guid>
+      <description>&lt;p&gt;In the summer of 2010, I worked jointly with the National Oceanic and Atmospheric Administration (NOAA), the Northwest National Marine Renewable Energy Center (NNMREC), and Oregon State University (OSU) at the Hatfield Marine Science Center in Newport, Oregon studying the interaction of wave energy devices and the environment. Working with &lt;a href=&#34;http://people.oregonstate.edu/~henkels/HenkelSK/Henkel.html&#34;&gt;Dr. Sarah Henkel&lt;/a&gt; and &lt;a href=&#34;https://www.nwfsc.noaa.gov/news/features/robert_emmett/index.cfm&#34;&gt;Dr. Robert Emmett&lt;/a&gt;, my study was titled “Interaction of Wave Energy Devices and the Environment: Biofouling Concerns on Mooring Systems.”&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
